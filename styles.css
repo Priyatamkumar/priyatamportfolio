@@ -1,0 +1,82 @@
+body {
+    text-align: center;
+    font-size: 150%;
+    letter-spacing: 1px;
+}
+.container-fluid {
+    padding: 7% 15%;
+}
+.name
+{
+    font-size: 500%;
+    color: #94B3FD;
+    margin-bottom: 100px;
+}
+.big-heading
+{
+    font-size: 200%;
+}
+/* navbar */
+.navbar {
+    margin-bottom: 4.5rem;
+    padding:0 5%;
+}
+.navbar-nav {
+    margin-left: auto;
+}
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+#title{
+    background-image: url(images/pexel.jpeg);
+}
+/* about */
+.about-text
+{
+    margin-top: 30px;
+}
+/* skills */
+.skills-col {
+    width: 70%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+.skill1 {
+    width: 30%;
+    float: left;
+    padding-right: 30px;
+    border-radius: 100%;
+}
+.skill2 {
+    width: 30%;
+    float: right;
+    padding-right: 30px;
+    border-radius: 100%;
+}
+/* project */
+
+#project {
+    background-color: #94B3FD;
+    color: #fff;
+}
+.project-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.project-image {
+    width: 40%;
+    border-radius: 100%;
+    margin: 3rem;
+}
+
+/* footer */
+
+#footer {
+    background-color: #94B3FD;
+}
+.footer-icon {
+    padding: 0 10px 30px 10px ;
+}
